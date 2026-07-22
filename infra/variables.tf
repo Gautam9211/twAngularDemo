@@ -5,7 +5,7 @@ variable "subscription_id" {
 
 variable "location" {
   type    = string
-  default = "Central India"
+  default = "Central US"
 }
 
 variable "resource_group_name" {
